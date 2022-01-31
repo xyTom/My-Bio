@@ -19,7 +19,6 @@
   <el-divider></el-divider>
   <BioSection SectionName="Projects" :ProjectCard="true" :ProjectInfo="ProjectInfo"/>
   <el-divider></el-divider>
-  <el-divider></el-divider>
   <!--<el-button>默认按钮</el-button>-->
   </el-main>
   <el-footer>© 2022 Yuntao Xie. All rights reserved.</el-footer>
