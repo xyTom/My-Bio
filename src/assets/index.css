@@ -1,0 +1,16 @@
+#Name{
+    font: 40px sans-serif;
+    position: absolute;
+    top:20px;
+
+}
+#ShortBio{
+    position: absolute;
+    top:70px;
+    color: darkgrey;
+}
+#NameCard{
+    top: 20px;
+    height: auto !important;
+    margin-top: 20px;
+}
