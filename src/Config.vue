@@ -4,10 +4,10 @@ export default {
     Name:"Yuntao Xie",
     ShortBio:" A cutting-edge technology explorer",
     About:`
-- 👋 Hi, I’m Yuntao Xie, nice to meet you!
-- 👀 I’m interested in Machine Learning, Medical Signal Processing, Fraud Detection, Software Security, and etc.
-- 🌱 I’m currently learning Natural Language Processing
-- 😃 I can speak Chinese(Native), English(Fluent) and Cantonese(Native)
+- 👋 Hi, I’m Yuntao Xie, nice to meet you!<br>
+- 👀 I’m interested in Machine Learning, Medical Signal Processing, Fraud Detection, Software Security, and etc.<br>
+- 🌱 I’m currently learning Natural Language Processing<br>
+- 😃 I can speak Chinese(Native), English(Fluent) and Cantonese(Native)<br>
 `,
     DisplayProjectCard:true,
     ProjectInfo:[
