@@ -27,9 +27,15 @@
     #NameSection{
         display: flex;
         align-items: center;
-    }display: flex;
-    #BioContainer{
+    }
+    .BioContainer{
         display: flex;
         flex-direction: column;
+    }
+    #ShortBio{
+        text-align: center;
+    }
+    .SectionName{
+        margin-bottom: 1rem;
     }
  }  
