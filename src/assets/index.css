@@ -1,12 +1,7 @@
 #Name{
     font: 40px sans-serif;
-    position: absolute;
-    top:20px;
-
 }
 #ShortBio{
-    position: absolute;
-    top:70px;
     color: darkgrey;
 }
 #NameCard{
@@ -14,3 +9,27 @@
     height: auto !important;
     margin-top: 20px;
 }
+#NameSection{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;   
+    margin-left: 1%;
+}
+@media (max-width: 425px){ /*0~425*/
+    .SectionName{
+        width: auto !important;
+    }
+    #NameWarp{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    #NameSection{
+        display: flex;
+        align-items: center;
+    }display: flex;
+    #BioContainer{
+        display: flex;
+        flex-direction: column;
+    }
+ }  

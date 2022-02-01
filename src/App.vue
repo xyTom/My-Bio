@@ -2,14 +2,12 @@
   <div id="app">
 <el-container>
   <el-header  id="NameCard">
-  <div class="block">
-  <el-row>
-  <el-col :xs="6" :sm="4" :md="3" :lg="2" :xl="1"><el-avatar :size="100" :src="AvatarUrl"></el-avatar></el-col>
-  <el-col :xs="4" :sm="6" :md="8" :lg="9" :xl="11">
+  <div class="block" style="display: flex;" id="NameWarp">  
+  <el-avatar :size="90" :src="AvatarUrl"></el-avatar>  
+  <div id="NameSection">
   <div id="Name">{{Name}}</div>
   <div id="ShortBio">{{ShortBio}}</div>
-  </el-col>
-  </el-row>
+  </div>
   </div>
      <el-divider></el-divider>
   </el-header>

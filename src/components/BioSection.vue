@@ -1,6 +1,6 @@
 <template>
-<el-container>
-  <el-aside width="20%" style="text-align: center;font-size: larger;font-weight: bolder;">{{SectionName}}</el-aside>
+<el-container id="BioContainer">
+  <el-aside width="20%" style="text-align: center;font-size: larger;font-weight: bolder;" class="SectionName">{{SectionName}}</el-aside>
   <el-main style="padding-top:0px;">   
     <el-card shadow="always" v-if="MsgCard">
       <div v-html="msg"></div>
