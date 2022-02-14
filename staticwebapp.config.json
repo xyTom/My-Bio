@@ -1,0 +1,9 @@
+{
+    "routes": [
+
+      {
+        "route": "/docs/IEEE-TIM",
+        "redirect": "https://storage.googleapis.com/project-xt.appspot.com/An_End-to-End_12-Leading_Electrocardiogram_Diagnosis_System_Based_on_Deformable_Convolutional_Neural_Network_With_Good_Antinoise_Ability%20.pdf"
+      }
+    ]
+}
