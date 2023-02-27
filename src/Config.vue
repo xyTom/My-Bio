@@ -5,7 +5,7 @@ export default {
     ShortBio:" A cutting-edge technology explorer",
     About:`
 - 👋 Hi, I’m Yuntao Xie, nice to meet you!<br>
-- 👀 I’m interested in Machine Learning, Medical Signal Processing, Fraud Detection, Software Security, Natural Language Processing and etc.<br>
+- 👀 I’m interested in Machine Learning, Medical Signal Processing, Fraud Detection, Software Security, Natural Language Processing.<br>
 - 🌱 I’m currently learning Wireless Senor Network(focus on improving the LEACH protocol)<br>
 - 😃 I can speak Chinese(Native), English(Fluent) and Cantonese(Native)<br>
 `,
