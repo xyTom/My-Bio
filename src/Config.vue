@@ -71,14 +71,6 @@ export default {
             ProjectDate: "Sperm morphology labelling tool for Machine learning",
             ProjectLink: "",
         },
-        {
-            id:7,
-            ProjectImg: ["https://bks.thefuture.top/bk.png",
-            "https://ucarecdn.com/12560c35-cdf9-4345-99df-ced5547a416e/ebooksearch.png"],
-            ProjectDes: "E-Book Search",
-            ProjectDate: "Online vertical search engine (Work with others)",
-            ProjectLink: "https://bks.thefuture.top",
-        },
       ]
 }
 </script>
