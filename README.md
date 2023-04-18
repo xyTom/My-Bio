@@ -31,15 +31,27 @@ The file exports an object that contains configuration of the Web Page. You can 
 
 #### Properties
 AvatarUrl: A URL for your avatar image.
+
 Name: Your full name that wants to show in the website.
+
 ShortBio: A short description of your interests and skills.
+
 About: A brief introduction yourself and a list of your interests and skills.
+
 DisplayProjectCard: A boolean value indicating whether to display project cards.
-ProjectInfo: An array of objects containing information about your projects. Each object has the following properties:
+
+ProjectInfo: An array of objects containing information about your projects. 
+
+Each object has the following properties:
+
 id: A unique identifier for the project.
+
 ProjectImg: An array of URLs for images related to the project.
+
 ProjectDes: A brief description of the project.
+
 ProjectDate: The date the project was completed or released.
+
 ProjectLink: A URL for more information about the project.
 
 #### Project Cards
