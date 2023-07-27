@@ -7,6 +7,6 @@
       }
     ],
     "mimeTypes": {
-      ".remotemanagement": "text/json"
+      ".remotemanagement": "application/json"
     }
 }
