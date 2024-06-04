@@ -13,7 +13,7 @@ export default {
     ProjectInfo:[
         {
             id:0,
-            ProjectImg: ["https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/19/9259274/9406046/wang3abc-3073707-large.gif",
+            ProjectImg: ["https://ieeexplore.ieee.org/mediastore/IEEE/content/media/19/9259274/9406046/wang3abc-3073707-large.gif",
             "https://ieeexplore.ieee.org/mediastore/IEEE/content/media/19/9259274/9406046/wang1-3073707-large.gif",
             "https://ieeexplore.ieee.org/mediastore/IEEE/content/media/19/9259274/9406046/wang2abc-3073707-large.gif",
             "https://ieeexplore.ieee.org/mediastore/IEEE/content/media/19/9259274/9406046/wang5-3073707-large.gif",
