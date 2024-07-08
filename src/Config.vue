@@ -13,12 +13,12 @@ export default {
     ProjectInfo:[
         {
             id:0,
-            ProjectImg: ["https://ieeexplore.ieee.org/mediastore/IEEE/content/media/19/9259274/9406046/wang3abc-3073707-large.gif",
-            "https://ieeexplore.ieee.org/mediastore/IEEE/content/media/19/9259274/9406046/wang1-3073707-large.gif",
-            "https://ieeexplore.ieee.org/mediastore/IEEE/content/media/19/9259274/9406046/wang2abc-3073707-large.gif",
-            "https://ieeexplore.ieee.org/mediastore/IEEE/content/media/19/9259274/9406046/wang5-3073707-large.gif",
-            "https://ieeexplore.ieee.org/mediastore/IEEE/content/media/19/9259274/9406046/wang6-3073707-large.gif",
-            "https://ieeexplore.ieee.org/mediastore/IEEE/content/media/19/9259274/9406046/wang10-3073707-large.gif"
+            ProjectImg: ["https://cdn.prod.website-files.com/668b17831f29d0dfd5781ee8/668b2d2ef96850eb2b7de64c_wang3abc-3073707-large.gif",
+            "https://cdn.prod.website-files.com/668b17831f29d0dfd5781ee8/668b2d2ef3f81bbf3bc01fd2_wang1-3073707-large.gif",
+            "https://cdn.prod.website-files.com/668b17831f29d0dfd5781ee8/668b2d2e0d2674cb6e39883e_wang2abc-3073707-large.gif",
+            "https://cdn.prod.website-files.com/668b17831f29d0dfd5781ee8/668b2d2e134dc172d6791949_wang5-3073707-large.gif",
+            "https://cdn.prod.website-files.com/668b17831f29d0dfd5781ee8/668b2d2ed23e3de91a50b5fe_wang6-3073707-large.gif",
+            "https://cdn.prod.website-files.com/668b17831f29d0dfd5781ee8/668b2d2e0de8f3bf2ad37298_wang10-3073707-large.gif"
             ],
             ProjectDes: "Deform-CNN",
             ProjectDate: "Deformable convolutional networks for ECG diagnosis",
