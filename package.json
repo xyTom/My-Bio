@@ -42,6 +42,6 @@
     "not dead"
   ],
   "engines": {
-    "node": ">=16 <23"
+    "node": ">=16 <25"
   }
 }
